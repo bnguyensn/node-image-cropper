@@ -49,3 +49,6 @@ $RECYCLE.BIN/
 # VSCode
 .vscode/
 .history/
+
+# Application
+data/
